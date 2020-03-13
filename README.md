@@ -1,2 +1,4 @@
 # Personal-Website
-website of me
+<!doctype html>
+
+</html>
